@@ -11,6 +11,7 @@ Our rule: every change an automation makes is written down, reviewable, and undo
 | [cloudflare-claude-chatbot](https://github.com/Synorthos/cloudflare-claude-chatbot) | Drop-in AI chat widget + lead capture for Cloudflare Pages — rate limiting, hard daily spend cap, bot protection, lead emails with transcripts. No build step. |
 | [smallbiz-automation-audit](https://github.com/Synorthos/smallbiz-automation-audit) | A free, structured audit to find what's actually worth automating — scoring model, worksheet, and an honest decision guide. |
 | [chatbot-golive-checklist](https://github.com/Synorthos/chatbot-golive-checklist) | Pre-launch security and behavior checklist for customer-facing AI chatbots. |
+| [sheet-automations](https://github.com/Synorthos/sheet-automations) | Free automations built on a Google Sheet + a Cloudflare Worker cron: overdue-invoice reminders, appointment reminders, low-stock alerts. |
 
 ## Work with us
 
