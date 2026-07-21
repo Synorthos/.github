@@ -1,4 +1,4 @@
-# Synortho Systems
+# Synorthos Systems
 
 We build practical, safe automation for small businesses — the routine work that eats a small team's week: answering the same questions, scheduling and reminders, lead follow-up, invoicing, data entry between systems.
 
